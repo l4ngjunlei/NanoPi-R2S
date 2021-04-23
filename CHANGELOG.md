@@ -108,4 +108,5 @@
 ## 20200226
 * 添加 frpc 和 npc
 * 支持 Full Cone NAT
-
+![](https://github.com/l4ngjunlei/NanoPi-R2S
+/workflows/NanoPi-R2S RK3328 OpenWrt 19.07 Build/badge.svg)
